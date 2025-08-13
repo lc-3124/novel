@@ -1,5 +1,6 @@
 # novel
 高三要来力,最近压力有点大,干脆写点东西高兴一下~
+
 写得太烂啦,酌情看看吧 :)
 
 作者序见后文/工程目录
@@ -15,9 +16,13 @@ chmod +x makenovel.sh
 暂无,请执行合并脚本
 
 # 使用 WTFPL 进行发布
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
 
+# 作者序
 ``` txt
-作者序
+
 
 # 作者：
 Lc3124
